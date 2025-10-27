@@ -296,6 +296,7 @@ The app allows athletes to plan and track tasks, workouts, forms, injuries, elig
 
 ---
 # **Wireframes**
-1 >
-2 >
-3 >
+![Wireframe1](images/wireframe1.png)
+![Wireframe2](images/wireframe2.png)
+![NavigationWorkflow](images/wireframe3.png)
+
