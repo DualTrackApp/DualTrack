@@ -129,17 +129,7 @@ The app allows athletes to plan and track tasks, workouts, forms, injuries, elig
 
 ---
 
-### **R10. Gamification System**
-* **Stories**  
-  - Earn streak badges for consistency (attendance, task completion, wellness).  
-  - Coach-awarded badges for motivation.  
-* **Acceptance**  
-  - Badges show up on dashboard/profile.  
-  - No public leaderboards for privacy.
-
----
-
-### **R11. Cloud Sync (Firebase)**   
+### **R10. Cloud Sync (Firebase)**   
 * **Stories**  
   - Store and sync data (tasks, forms, wellness logs, injuries) in real time between athlete and coach.  
 * **Acceptance**  
@@ -148,7 +138,7 @@ The app allows athletes to plan and track tasks, workouts, forms, injuries, elig
 
 ---
 
-### **R12. Wellness Survey Module**
+### **R11. Wellness Survey Module**
 * **Stories**  
   - Weekly survey: stress, fatigue, mood.  
   - Generate team wellness trends for coach review.  
@@ -158,7 +148,7 @@ The app allows athletes to plan and track tasks, workouts, forms, injuries, elig
 
 ---
 
-### **R13. Coach Dashboard**
+### **R12. Coach Dashboard**
 * **Stories**  
   - View roster, pending forms, at-risk athletes, wellness trends, injury updates.  
   - Approve or reject forms, manage tasks, review team analytics.  
@@ -175,6 +165,13 @@ The app allows athletes to plan and track tasks, workouts, forms, injuries, elig
 - **O3. Export (CSV/PDF)** – Export schedules, logs, wellness trends, eligibility reports.  
 - **O4. In-App Chat (Coach ↔ Athlete)** – Direct communication.  
 - **O5. Wearable Integration** – Optional pulling of heart rate, sleep, or step data.
+- **06. Gamification System** -
+* **Stories**  
+  - Earn streak badges for consistency (attendance, task completion, wellness).  
+  - Coach-awarded badges for motivation.  
+* **Acceptance**  
+  - Badges show up on dashboard/profile.  
+  - No public leaderboards for privacy.
 
 ---
 
