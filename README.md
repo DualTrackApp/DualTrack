@@ -299,4 +299,4 @@ The app allows athletes to plan and track tasks, workouts, forms, injuries, elig
 
 ---
 # **Sprint 1 Build Progress**
-![DualTrackInitialBuild](GIFs/DualTrackInitialBuild.gif)
+![DualTrackInitialBuild](GIFs/DualTrackInitialBuild1.gif)
